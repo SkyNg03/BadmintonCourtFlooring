@@ -365,7 +365,7 @@ strong {
 
 @media (max-width: 420px) {
   .navbar-brand {
-    font-size: 1em;
+    font-size: 12px;
     margin-right: 10vw;
   }
 }
